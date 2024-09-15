@@ -1,0 +1,29 @@
+{
+  "id": "dustlands-custom-effects",
+  "title": "Dustlands Custom Effects",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "authors": [
+    {
+      "name": "Not-At-Home",
+      "discord": "Not-At-Home",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "effects",
+      "label": "Effects",
+      "path": "packs/effects",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ]
+}
